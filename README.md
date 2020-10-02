@@ -1,6 +1,6 @@
 
 # Remot3d - An Easy Way To Exploiting 
-#### Will be update soon
+#### Will be updated soon
 
 [![Version](https://img.shields.io/badge/Version-2.0-brightgreen.svg?maxAge=259200)]()
 [![Build](https://img.shields.io/badge/Codename_-_The_Baby-red.svg?maxAge=259200)]()
@@ -12,29 +12,29 @@
 
 ## <hr/>
 
-***Remot3d*** - A tool made to generate backdoor to control and exploit a server where the server runs the PHP (Hypertext Preprocessor) program.
-
-                Equipped with a backdoor that has been Obfuscated which means that 100% FUD (FULLY UNDETECTABLE) in other words can penetrate the firewall of a server because of its ignorance if it's a Malware,
-Written in Shell Script Language or commonly known as BASH by a 16 year old teenager.
+***Remot3d*** - A tool made to generate backdoor to control and exploit a server where the server runs the PHP (Hypertext Preprocessor) program. Equipped with a backdoor that has been obsfucated, which means that it shoudl generally be FUD (Fully Undectable).
+                
+Written in Shell Script Language or commonly known as BASH by a 16-year-old teenager.
 ### Donate
-- If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
+- If this project helped you with penetration testing and you want to support me, you can buy me a coffee :)
   - PAYPAL        : https://www.paypal.me/abdiprawiran
   - PERFECT MONEY : U15461128
 ## <hr/>
 # Screenshots
-<img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/1.png" width="25%"></img> <img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/2.png" width="25%"></img> <img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/3.png" width="25%"></img> <img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/4.png" width="25%"></img>
+<img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/1.png" width="25%"/>
+<img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/2.png" width="25%"/>
+<img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/3.png" width="25%"/>
+<img src="https://raw.githubusercontent.com/keepwannabe/Remot3d/master/screenshot/4.png" width="25%"/>
 
-# List of Remot3d Functions
+# List of Remot3d functions
 
-- Create backdoor for windows or linux servers (can run php file)
+- Creates a backdoor for Winodws or Linux servers (can run php file)
 
-- Bypass disable function's with imap_open vulnerability
+- Bypass disable functions with `imap_open` vulnerability
 
-- Bypass read file ```/etc/passwd``` with cURL or Unique Logic Script's
+- Bypass read file ```/etc/passwd``` with cURL or Unique Logic Scripts
 
-- Generating Backdoor and can be remoted on Tools
-
-- Some other fun stuff :)
+- Lots of other fun stuff :)
 
 
 ## Getting Started
@@ -43,7 +43,7 @@ Written in Shell Script Language or commonly known as BASH by a 16 year old teen
 3. ```sudo setup.sh && Remot3d```
 
 
-## Linux operating systems we recommend :
+## Recommended Linux OSes:
 - Linux mint (Ubuntu Based with Mate DE)
 - Parrot 
 - BackTrack 
@@ -58,7 +58,7 @@ Written in Shell Script Language or commonly known as BASH by a 16 year old teen
 ```git pull && sudo setup.sh && Remot3d```
 
 
-## Helped by : 
+## Special thanks to:
 
 ### - my god Allah SWT.
 ### - Bayu Fedra      (https://github.com/bayufedra)
@@ -72,11 +72,8 @@ Written in Shell Script Language or commonly known as BASH by a 16 year old teen
 
 
 ## Found a Bug ?
+If you found a bug in Remot3d, submit an issue on this repository.
 
-- Submit new issue 
 
-
-## ⭕️ Disclaimer
-
-***Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool ( Abdi Prawira N ).***
-
+## Use disclaimer
+Alternations to the source code of this application are considered acceptable, however, any public releases utilizing modified or original code of this application must be with written approval of the owner of this software, Abdi Prawira N.
